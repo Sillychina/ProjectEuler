@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1451083038 source:c:\users\sillychina\documents\programming\programmingalgorithms\euler7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+

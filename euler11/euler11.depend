@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452753545 source:c:\users\sillychina\documents\programming\programmingalgorithms\euler11\main.c
+	<stdio.h>
+	<stdlib.h>
+
